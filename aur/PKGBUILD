@@ -1,0 +1,24 @@
+# Maintainer:
+
+_gitname=ricksdomein-gtk-theme
+pkgname=ricksdomein-gtk-theme-git
+_pkgname=ricksdomein-gtk-theme
+pkgver=1
+pkgrel=1
+epoch=1
+pkgdesc="A Material neutral dark-balanced color-scheme theme for GTK+ based environments."
+url='https://github.com/ricksdomein/ricksdomein-gtk-theme'
+arch=('i686' 'x86_64')
+license=('GPL3')
+source=("git+https://github.com/ricksdomein/$_gitname.git")
+sha1sums=('SKIP')
+
+provides=("${_pkgname}")
+conflicts=("${_pkgname}")
+
+package() {
+    cd "${srcdir}/$_gitname"
+    export destdir="$pkgdir/"
+	mkdir -p "${pkgdir}/usr/share/themes"
+    cp -r ricksdomein-gtk-theme "${pkgdir}/usr/share/themes/"
+}
