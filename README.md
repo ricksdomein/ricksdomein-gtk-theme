@@ -4,6 +4,7 @@ A Materia theme with a dark Papirus icon theme for GTK+ based environments.
 
 <p align="center">
   <img src="./preview.png">
+  <sub>This theme was created with [Themix GUI designer](https://github.com/themix-project/oomox)</sub>
 </p>
 
 
