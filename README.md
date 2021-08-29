@@ -17,7 +17,7 @@ This themes provide a fancy neutral dark-balanced color-scheme designed to be __
 
 2. __Avoid disrupting your circadian rhythms__: a neutral color-cast-free UI helps your body to produce enough melatonin at night time and sleep better, working nicely with software like `redshift`.
 
-> :warning: **I don't use a GUI file manager**: So maybe the yellow directory icons agains the dark background can cause eye strain!
+> :warning: ![#f03c15](**I don't use a GUI file manager**: So maybe the yellow directory icons agains the dark background can cause eye strain!)
 
 
 ## Credits
