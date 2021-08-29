@@ -9,7 +9,7 @@ A Materia theme with a dark Papirus icon theme for GTK+ based environments.
 </p>
 
 
-> Arch user can use `makepkg -sic` to install this theme or use my [repo](https://github.com/ricksdomein/ricksdomein-arch-repo).
+> Arch user can use `makepkg -sic` to install this theme with icons or use my [repo](https://github.com/ricksdomein/ricksdomein-arch-repo).
 
 
 ## All credits go:
