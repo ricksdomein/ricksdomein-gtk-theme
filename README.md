@@ -1,4 +1,4 @@
-# ricksdomein GTK theme with icons
+# ricksdomeins GTK theme with icons
 
 A Materia theme with a dark Papirus icon theme for GTK+ based environments.
 
